@@ -1,0 +1,10 @@
+﻿["WheelGameControls"]
+* Do not change the styleformat of this file.
+* For adding _WheelActions follow these guides:
+* INDEX: "NAME" = "BUTTON" or "Button1|Button2"
+* Two Buttons Syntax = (WHEEL UP) Button1 | (WHEEL DOWN) Button2 
+* initialDefaultValues
+*
+1: "Battlefield 3" = "triangle"
+2: "Shooter" = "triangle"
+3: "Minecraft" = "R1|L1"

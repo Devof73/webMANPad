@@ -1,0 +1,3 @@
+﻿["KeyboardAssignments"]
+* user : ps3
+none : none

@@ -1,0 +1,474 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/visual/source/repos/webMANPad/webMANPad",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Conceptual",
+      "source_relative_path": "api/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "api/index.html",
+          "hash": "ZcRFJgNhvhM6kAH28Vkb5TxxGPe7FlftmernEpHWKBw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "articles/intro.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/intro.html",
+          "hash": "yF4cM99miGSsrT64oV0kgkl56YkQylthgw5Gl1aJqzo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "articles/toc.md",
+      "output": {
+        ".html": {
+          "relative_path": "articles/toc.html",
+          "hash": "BlPxk5mtl2kgfcZUgkEguqiSAR/EUyUTT4EdebwkQvs="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "GGOovSab6ZFxRkwbTiKX/AxcXz9WU1qSZOSIhjRqq74="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.CORE_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.CORE_CMD.html",
+          "hash": "NiYAgCpOYS4Phf4k4Gjn0vFElSCeKb3ClC48XrNjApw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PROCESS_CMD.MEMORY_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PROCESS_CMD.MEMORY_CMD.html",
+          "hash": "nzvwypm1118nCgEk3WYaDKKdnQf3BvVELd5k2XzMFis="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PROCESS_CMD.MODULES_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PROCESS_CMD.MODULES_CMD.html",
+          "hash": "0Cx87rX3K6uY5Fo5Zpw0aqvMnrxYRrtU6v8+vQ5yhdM="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PROCESS_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PROCESS_CMD.html",
+          "hash": "YRz0wq++kv10IMQS1DqXEvZ3RuoxlDMDeXcCSE9UYQs="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PS3_CMD.BuzzerMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PS3_CMD.BuzzerMode.html",
+          "hash": "XCyDJuk7xGH8J8GhwOLtDE3sA0e/lUIMx0JOjseGHnY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PS3_CMD.LedColor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PS3_CMD.LedColor.html",
+          "hash": "u/xLNHIA9tKGB7TCE/TNd9LVoQlEglgj3Zt0X0GOVO0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PS3_CMD.LedMode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PS3_CMD.LedMode.html",
+          "hash": "mo3xci3AMXElNhTZKv7XzMcWtdLOmWZ4SG0a97nyRxA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PS3_CMD.PowerFlags.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PS3_CMD.PowerFlags.html",
+          "hash": "gDZUFIuHQKpL49/oumRq3tR27GDANZpdSB7wk3aq6OU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PS3_CMD.Syscall8Mode.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PS3_CMD.Syscall8Mode.html",
+          "hash": "AZzQKIB4XD0Ynhgy/KdORSTl3fpF08SLBasVdS1K/OQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.PS3_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.PS3_CMD.html",
+          "hash": "do4UJY/nqnbjEcf2Su5PKV2IyvnQX82MW3LkKImEPGQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.SERVER_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.SERVER_CMD.html",
+          "hash": "ybt2dR/WYU3EWttDl94Z3p93cpjwoA5n8T04lenyilU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.VSH_PLUGINS_CMD.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.VSH_PLUGINS_CMD.html",
+          "hash": "PRKZR8ONXETTDs/vpTFl4Iw+tC8netATGMjKepX/gTA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.PS3MAPI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.PS3MAPI.html",
+          "hash": "ns0aRZFVaF8L+ODY062Ji+N6jVZpSoWUDzsa+FNm0Ls="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/WEBMAN.Data.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/WEBMAN.Data.html",
+          "hash": "GoJYCwFBohtkdrY1TIpovXgFQctkBORiFapKGg01PFI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "obj/api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html",
+          "hash": "kbXXzN94FKbSCibua0cu58wMSL24swZfNChvr+FaazA="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMAN.WebMAN.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMAN.WebMAN.html",
+          "hash": "0KwNCVKdXpV3HD8rEcVstB5BREjG+EPt6DsbcIFY3No="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMAN.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMAN.html",
+          "hash": "1hazv/w/n/Th21/L5Rr0cH/24ouXHnVdjc7Tf0KSzMo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Classes.AllKeys.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Classes.AllKeys.html",
+          "hash": "mEHA7XKqv/a5bQiirw5dviiVKOrI+/ceh82uZixYymo="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Classes.KeyboardSavedata.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Classes.KeyboardSavedata.html",
+          "hash": "y8S/1IOlmx1ZFmMFVo7IZU9D5R7L8kUt1FzkM1O14lI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Classes.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Classes.html",
+          "hash": "95MSciFY1vZ9me38ve4eThjHF1tRqeKpGpKNuruYPJU="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.ControllerForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.ControllerForm.html",
+          "hash": "WHmwNlIhdk/h5MiBr2SYEsyXZjxFG99lLnFhWz5UlsY="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Forms.ExceptionForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Forms.ExceptionForm.html",
+          "hash": "r4ZHdekGpsJeK0FOAg3Va4MXOngCdy3/UYiJ9kNiHC0="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Forms.KeyboardAssignmentForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Forms.KeyboardAssignmentForm.html",
+          "hash": "amF/I4kGuRGW+aGw0P+SGx1lPjKqeVajmOqDYo7zCCI="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Forms.ModeSetForm.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Forms.ModeSetForm.html",
+          "hash": "su4lQDjjZxCzk16MGpF6+pZXQiBVECMReAlg6j7gTeE="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.Forms.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.Forms.html",
+          "hash": "z9GaqfbALTEbQSy/9GEAY8zm1zopLJioWO9X1NeZKZc="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.PadController.Key.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.PadController.Key.html",
+          "hash": "bcXz9+zv4WREos8dewQApc6BE0rWUOZwBoP5nbmGfZQ="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.PadController.KeyAction.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.PadController.KeyAction.html",
+          "hash": "QwovTRzI+z5XsquFmpFd6UWeEEua3IQdju78KKJT5rA="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.PadController.MouseMethod.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.PadController.MouseMethod.html",
+          "hash": "7aTp3llB34FD3ji45wO90Qwsjx3pXuzXNxxCHHoj6Og="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.PadController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.PadController.html",
+          "hash": "++3EOBZneQcK55dJ5i11tru3Dyl/GzfysTaA9tuiJLw="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "obj/api/webMANPad.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/webMANPad.html",
+          "hash": "ICGoqghd69Nvk4wSc52CJ6ryhb9UGuX5CAOBHkfW7Mk="
+        }
+      },
+      "is_incremental": true,
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "Oa9PuD4E1hvZnCkVjUgzNBX6S00Zo5YilamTERTZo54="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    }
+  ],
+  "incremental_info": [
+    {
+      "status": {
+        "can_incremental": true,
+        "incrementalPhase": "build",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {
+        "ConceptualDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 3,
+          "skipped_file_count": 3
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": true,
+          "incrementalPhase": "build",
+          "total_file_count": 29,
+          "skipped_file_count": 29
+        },
+        "TocDocumentProcessor": {
+          "can_incremental": false,
+          "details": "Processor TocDocumentProcessor cannot support incremental build because the processor doesn't implement ISupportIncrementalDocumentProcessor interface.",
+          "incrementalPhase": "build",
+          "total_file_count": 0,
+          "skipped_file_count": 0
+        }
+      }
+    },
+    {
+      "status": {
+        "can_incremental": true,
+        "details": "Can support incremental post processing.",
+        "incrementalPhase": "postProcessing",
+        "total_file_count": 0,
+        "skipped_file_count": 0
+      },
+      "processors": {}
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
